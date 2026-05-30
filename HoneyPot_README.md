@@ -1,4 +1,4 @@
-# Microsoft Sentinel Honey Pot
+# Microsoft Azure Honey Pot
 
 ## Description
 Deployed a cloud-based honeypot on Microsoft Azure using a deliberately vulnerable virtual machine to attract and capture malicious activity. Collected and ingested security logs into Microsoft Sentinel, where I built a custom workbook to visualize and analyze attack data in real time.
