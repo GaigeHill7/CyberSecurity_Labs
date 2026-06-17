@@ -21,3 +21,14 @@ Developed a security dashboard to visualize user accounts who have been disable 
 **Included Fields** : user.name.keyword, host.hostname.keyword
 
 <img width="704" height="98" alt="image" src="https://github.com/user-attachments/assets/4c744e09-a829-4c41-bebd-d7ef006de917" />
+
+## 3) Successful RDP Logins
+A security dashboard to visualize successful RDP logins to detect RDP sessions from suspicious IPs
+
+**Filter** = event.code : 4624  AND winlog.logon.type.keyword : RemoteInteractive
+
+**Relevant Windows Event ID** : 4624 (Successful Authentication)
+
+**Included Fields**: user.name.keyword, host.hostname.keyword, related.ip.keyword, @timestamp
+
+<img width="931" height="89" alt="image" src="https://github.com/user-attachments/assets/ae38404a-bdb0-4f2e-bbfd-451fdbceccb6" />
