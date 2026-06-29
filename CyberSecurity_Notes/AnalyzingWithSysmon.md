@@ -48,7 +48,7 @@ DLL Hijacking is an exploit on windows applications which load linked libraries 
 
 ## DLL Hijacking Lab:
 
-1. Create a copy of calc.exe and move it to desktop. Import malicous DLL to desktop and rename it to a valid DLL name that calc uses (WININIT.dll)
+1. Create a copy of calc.exe and move it to desktop. Import malicous DLL to desktop and rename it to a valid DLL name that calc uses (WININET.dll)
    
    <img width="281" height="124" alt="image" src="https://github.com/user-attachments/assets/beb3b7f8-3906-40cd-86c4-06cc804acbe5" />
 
