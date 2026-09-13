@@ -24,3 +24,21 @@ Examples included:
 - Systems forwarding security logs to the SIEM
 - Management stations connecting to infrastructure interfaces
 - Approved update and vulnerability-management traffic
+
+# Reference Images
+## WAN Interface
+
+<img width="1138" height="191" alt="image" src="https://github.com/user-attachments/assets/fc85b5e0-184c-44e5-b283-01dbca674ebb" />
+
+## Management Interface
+
+<img width="1140" height="950" alt="image" src="https://github.com/user-attachments/assets/dc05428c-30d6-4274-965f-f7c33e956611" />
+
+## Users
+
+<img width="1137" height="1101" alt="image" src="https://github.com/user-attachments/assets/483d1f61-d81a-471b-8ad4-0b2a3eb391b3" />
+
+## Servers
+
+<img width="1139" height="620" alt="image" src="https://github.com/user-attachments/assets/ddedac6d-9fb0-47c9-bbc7-77fb5aec218e" />
+
