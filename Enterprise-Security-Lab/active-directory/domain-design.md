@@ -20,3 +20,7 @@ These policies have been created to maintain a secure baseline while not overcon
 <img width="1173" height="976" alt="image" src="https://github.com/user-attachments/assets/e9d716dd-0dfb-4ef4-adc8-d1b315b3ca43" />
 
 
+**Reference Image:**
+
+<img width="398" height="810" alt="image" src="https://github.com/user-attachments/assets/91ac01d2-fa3d-4d75-a6ca-1efb365f7c90" />
+
