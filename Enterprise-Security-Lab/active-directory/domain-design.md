@@ -13,7 +13,10 @@ This Document describes the Active Directory design for the JangoNet, including 
 
 <img width="756" height="534" alt="image" src="https://github.com/user-attachments/assets/e606b145-66bf-4f76-a60f-dc6539e6f219" />
 
+## Group Policies
 
+These policies have been created to maintain a secure baseline while not overconsuming resources
 
+<img width="1173" height="976" alt="image" src="https://github.com/user-attachments/assets/e9d716dd-0dfb-4ef4-adc8-d1b315b3ca43" />
 
 
